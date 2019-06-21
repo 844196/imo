@@ -1,18 +1,12 @@
 {
-  "name": "@844196/imo",
-  "version": "0.0.0",
+  "name": "@s083027/imo",
+  "version": "0.0.1",
   "repository": "https://github.com/844196/imo",
   "author": "Masaya Takeda <844196@gmail.com>",
   "license": "MIT",
   "bin": {
     "imo": "bin/imo"
   },
-  "files": [
-    "bin",
-    "build",
-    "README.md",
-    "LICENSE"
-  ],
   "scripts": {
     "build": "tsc"
   },

@@ -2,7 +2,7 @@ import cac from 'cac';
 import me from '../package.json';
 import process from 'process';
 
-const cli = cac(me.name)
+const cli = cac()
   .version(me.version)
   .help();
 
