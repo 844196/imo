@@ -6,5 +6,15 @@
   "license": "MIT",
   "bin": {
     "imo": "bin/imo"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^3.5.2"
+  },
+  "dependencies": {
+    "@types/node": "^12.0.8",
+    "cac": "^6.5.2"
   }
 }
