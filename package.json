@@ -1,0 +1,10 @@
+{
+  "name": "imo",
+  "version": "0.0.0",
+  "repository": "https://844196@github.com/844196/imo",
+  "author": "Masaya Takeda <844196@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "imo": "bin/imo"
+  }
+}
